@@ -6,7 +6,7 @@
 --
 Manifest version 2 is deprecated, and support will be removed in 2023. See https://developer.chrome.com/blog/mv2-transition/ for more details.
 
-명세서 버전 2는 사용되지 않으며 2023년에 삭제될 수 있습니다.보이다https://developer.chrome.com/blog/mv2-transition/더 많은 디테일.
+명세서 버전 2는 사용되지 않으며 2023년에 삭제될 수 있습니다.보이다https://developer.chrome.com/blog/mv2-transition/ 더 많은 디테일.
 --
 v1.2-mv2（대부분의 주요 브라우저와 호환）:이 버전은 Manifest mv2를 사용하여 플러그인으로github 자원에 접근하여(https://github.com/afubaba/Afreecatv) 네트워크 속도가 좋은 클라이언트를 위해 사용합니다
 --
@@ -16,7 +16,7 @@ v2.2-mv2（대부분의 주요 브라우저와 호환）:이 버전은 Manifest 
 --
 개성화된 부분 내용 옵션은 클라이언트에 저장되며 새 생방송에 들어가면 다시 설정할 필요가 없습니다. 이 확장 프로그램은 어떠한 정보도 올리지 않습니다.
 --
-기능：내장 탄모 힌트, 글씨체 최적화, 설비 디스플레이, 채팅 로봇（테스트 중）<a href="https://afubaba.github.io/Afreecatv/RobotCommand.html" class="btn" target="_blank">명령 매뉴얼</a>, 관리자 도배 기능，인스타그램에 연결된 모든 앨범 열기 지원,
+기능：내장 탄모 힌트, 글씨체 최적화, 설비 디스플레이, 채팅 로봇（테스트 중）<a href="https://afubaba.github.io/Afreecatv/RobotCommand.html" target="_blank">명령 매뉴얼</a>, 관리자 도배 기능，인스타그램에 연결된 모든 앨범 열기 지원,
 --
 숨김 기능: 선명도 조정 디스플레이
 --
