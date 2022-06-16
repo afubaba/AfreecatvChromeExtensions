@@ -1,16 +1,16 @@
 #플러그인 액세스 사용,다음 두 가지 플러그인 인터페이스와 기능은 거의 같지만 정적 자원 저장 위치는 다르다
 --
-v1.2-mv2（대부분의 주요 브라우저와 호환）:이 버전은 Manifest mv2를 사용하여 플러그인으로github 자원에 접근하여(https://github.com/afubaba/Afreecatv) 네트워크 속도가 좋은 클라이언트를 위해 사용합니다
+3.1.1-mv3（edge, whale, google-chrome 등 크롬 핵심 유람기 또는 manifest v3를 지원하는 다른 유람기）:v1.2-mv2의 업그레이드 버전，로봇 채팅 랜덤으로 LOL 영웅 이름 선택 기능 추가
 --
-v2.2-mv2（대부분의 주요 브라우저와 호환）:이 버전은 Manifest mv2를 플러그인으로 사용하여 로컬 정적 자원에 접근하여 네트워크 속도 지연을 낮추고 스크립트 속도를 향상시킵니다.
+3.2.1-mv3（edge, whale, google-chrome 등 크롬 핵심 유람기 또는 manifest v3를 지원하는 다른 유람기）:v2.2-mv2의 업그레이드 버전，로봇 채팅 랜덤으로 LOL 영웅 이름 선택 기능 추가
 --
 Manifest version 2 is deprecated, and support will be removed in 2023. See https://developer.chrome.com/blog/mv2-transition/ for more details.
 
 명세서 버전 2는 사용되지 않으며 2023년에 삭제될 수 있습니다.보이다https://developer.chrome.com/blog/mv2-transition/더 많은 디테일.
 --
-3.1.1-mv3（edge, whale, google-chrome 등 크롬 핵심 유람기 또는 manifest v3를 지원하는 다른 유람기）:v1.2-mv2의 업그레이드 버전，로봇 채팅 랜덤으로 LOL 영웅 이름 선택 기능 추가
+v1.2-mv2（대부분의 주요 브라우저와 호환）:이 버전은 Manifest mv2를 사용하여 플러그인으로github 자원에 접근하여(https://github.com/afubaba/Afreecatv) 네트워크 속도가 좋은 클라이언트를 위해 사용합니다
 --
-3.2.1-mv3（edge, whale, google-chrome 등 크롬 핵심 유람기 또는 manifest v3를 지원하는 다른 유람기）:v2.2-mv2의 업그레이드 버전，로봇 채팅 랜덤으로 LOL 영웅 이름 선택 기능 추가
+v2.2-mv2（대부분의 주요 브라우저와 호환）:이 버전은 Manifest mv2를 플러그인으로 사용하여 로컬 정적 자원에 접근하여 네트워크 속도 지연을 낮추고 스크립트 속도를 향상시킵니다.
 --
 사용법:이 확장은 압축 해제판 확장으로 크롬 핵심 유람기는 개발자 모드를 열고 압축된 패키지를 불러옵니다. 화호 유람기는 이 프로그램을 디버깅하고 확장을 임시로 불러옵니다.중국어와 한국어만 지원됩니다，언어를 수동으로 설정할 필요가 없습니다. 플러그인은 자동으로 시간대에 따라 설정됩니다.
 --
