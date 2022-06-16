@@ -4,6 +4,9 @@ v1.2-mv2（대부분의 주요 브라우저와 호환）:이 버전은 Manifest 
 --
 v2.2-mv2（대부분의 주요 브라우저와 호환）:이 버전은 Manifest mv2를 플러그인으로 사용하여 로컬 정적 자원에 접근하여 네트워크 속도 지연을 낮추고 스크립트 속도를 향상시킵니다.
 --
+Manifest version 2 is deprecated, and support will be removed in 2023. See https://developer.chrome.com/blog/mv2-transition/ for more details.
+명세서 버전 2는 사용되지 않으며 2023년에 삭제될 수 있습니다.보이다https://developer.chrome.com/blog/mv2-transition/더 많은 디테일.
+--
 3.1.1-mv3（edge, whale, google-chrome 등 크롬 핵심 유람기 또는 manifest v3를 지원하는 다른 유람기）:v1.2-mv2의 업그레이드 버전，로봇 채팅 랜덤으로 LOL 영웅 이름 선택 기능 추가
 --
 3.2.1-mv3（edge, whale, google-chrome 등 크롬 핵심 유람기 또는 manifest v3를 지원하는 다른 유람기）:v2.2-mv2의 업그레이드 버전，로봇 채팅 랜덤으로 LOL 영웅 이름 선택 기능 추가
