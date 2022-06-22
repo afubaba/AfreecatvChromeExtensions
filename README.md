@@ -4,7 +4,7 @@
 --
 3.2.1-mv3/3.2.1-mv3-emoji（edge, whale, google-chrome 등 크롬 핵심 유람기 또는 manifest v3를 지원하는 다른 유람기）:v2.2-mv2의 업그레이드 버전，로봇 채팅 랜덤으로 LOL 영웅 이름 선택 기능 추가
 --
-만약 당신의 컴퓨터가 구글 이모티콘을 지원하지 않는다면, 3.1.1-mv3-emoji/3.2.1-mv3-emoji 이모티콘 증강판을 사용하십시오
+만약 당신의 컴퓨터가 구글 이모티콘을 지원하지 않는다면, 3.1.1-mv3-emoji/3.2.1-mv3-emoji 이모티콘 증강판을 사용하십시오，이 버전은 더 많은 컴퓨터 자원을 차지할 수 있습니다
 --
 Manifest version 2 is deprecated, and support will be removed in 2023. See https://developer.chrome.com/blog/mv2-transition/ for more details.
 
