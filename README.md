@@ -10,7 +10,7 @@ Manifest version 2 is deprecated, and support will be removed in 2023. See https
 
 명세서 버전 2는 사용되지 않으며 2023년에 삭제될 수 있습니다.보이다https://developer.chrome.com/blog/mv2-transition/ 더 많은 디테일.
 --
-구글 공식 공고에 따르면 2023년까지 현재 저버전의 대부분의 유람기 호환
+구글 공식 공고에 따르면 2023년까지 현재 저버전 manifest v2.0은 대부분의 유람기를 호환한다
 --
 v1.2-mv2온라인 버전（대부분의 주요 브라우저와 호환）:이 버전은 Manifest mv2를 사용하여 플러그인으로github 자원에 접근하여(https://github.com/afubaba/Afreecatv) 네트워크 속도가 좋은 클라이언트를 위해 사용합니다，이 버전은github 네트워크 환경에 접근할 수 있는 컴퓨터에 적용된다,플러그인에 필요한 자원은github에 위탁 관리됩니다
 --
