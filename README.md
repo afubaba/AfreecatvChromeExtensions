@@ -15,7 +15,7 @@
 --
 mv3지원 시스템：Microsoft-Edge, Naver-whale, Google-Chrome,Opera 등 크롬 핵심 유람기 또는 manifest v3를 지원하는 다른 유람기,오프라인 버전이 발표된 후 일정 시간 내에 온라인 버전이 업데이트됩니다.
 --
-v3.1.5-mv3-websql&indexdb온라인 버전:v3.1.4-mv3-websql&indexdb의 업그레이드 버전，이 버전은 Manifest MV3를 github 네트워크 환경에 액세스할 수 있는 컴퓨터에 플러그인으로 사용하며, 플러그인에 필요한 리소스는 github에서 호스팅됩니다.
+V3.1.5-mv3-websql&indexdb온라인 버전:v3.1.4-mv3-websql&indexdb의 업그레이드 버전，이 버전은 Manifest MV3를 github 네트워크 환경에 액세스할 수 있는 컴퓨터에 플러그인으로 사용하며, 플러그인에 필요한 리소스는 github에서 호스팅됩니다.
 --
 V3.2.5-MV3-Websql&IndexDB&Mysql오프라인판:v3.2.4-mv3-websql&indexdb의 업그레이드 버전，이 버전은 Manifest MV3를 플러그인으로 사용하여 로컬 정적 리소스에 액세스하며 네트워크의 리소스에는 액세스하지 않습니다.독립하다.플러그인에 필요한 자원이 플러그인 폴더에 통합되었습니다.
 --
