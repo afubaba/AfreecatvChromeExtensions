@@ -1,5 +1,5 @@
 
-자습서 사용하기 (문서):<a href="https://afubaba.github.io/Afreecatv/pdf/%E6%89%A9%E5%B1%95%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf" target="_blank" rel="nofollow">扩展使用手册(chinese)</a>  <a href="https://afubaba.github.io/Afreecatv/pdf/%ED%99%95%EC%9E%A5%20%EC%82%AC%EC%9A%A9%20%EC%84%A4%EB%AA%85%EC%84%9C.pdf" target="_blank" rel="nofollow">확장 사용 설명서(korean)</a>
+자습서 사용하기 (문서):<a href="https://afubaba.github.io/Afreecatv/libs/pdf/%E6%89%A9%E5%B1%95%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C.pdf" target="_blank" rel="nofollow">扩展使用手册(chinese)</a>  <a href="https://afubaba.github.io/Afreecatv/libs/pdf/%ED%99%95%EC%9E%A5%20%EC%82%AC%EC%9A%A9%20%EC%84%A4%EB%AA%85%EC%84%9C.pdf" target="_blank" rel="nofollow">확장 사용 설명서(korean)</a>
 --
 자습서 사용하기 (영상)：<a href="https://afubaba.github.io/Afreecatv/" target="_blank" rel="nofollow">本扩展使用教程/이 확장 사용 강좌</a>
 --
