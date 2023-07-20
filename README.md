@@ -2,7 +2,7 @@
 --
 使用教程（视频）:<a href="https://afubaba.github.io/Afreecatv/" target="_blank" rel="nofollow">本扩展使用教程</a>
 --
-#下面的插件功能和界面几乎没有差异，只有静态资源存储位置不同，适用于以Chrome为核心的游览器
+#下面的同版本的脱机版和在线版的插件功能和界面几乎没有差异，只有静态资源存储位置不同，适用于以Chrome为核心的游览器
 --
 mv3支持的浏览器：Microsoft Edge、Naver-whale、Google-Chrome、Opera等以Chrome为核心浏览器或支持 manifest v3的其他游览器，脱机版本发布后将在一段时间内更新在线版本。
 --
@@ -75,7 +75,7 @@ v2.2-mv2脱机版（mv2版本支持大多数浏览器）：此版本使用Manife
 --
 자습서 사용하기 (영상)：<a href="https://afubaba.github.io/Afreecatv/" target="_blank" rel="nofollow">이 확장 사용 강좌</a>
 --
-# 아래의 플러그인 기능과 인터페이스는 거의 차이가 없다. 정적 자원 저장 위치만 다르다. 크롬을 핵심으로 하는 유람기에 적용된다
+# 아래 같은 버전의 오프라인 버전과 온라인 버전의 플러그인 기능과 인터페이스는 거의 차이가 없다. 정적 자원 저장 위치만 다르다. 크롬을 핵심으로 하는 유람기에 적합하다
 --
 mv3지원 시스템：Microsoft-Edge, Naver-whale, Google-Chrome,Opera 등 크롬 핵심 유람기 또는 manifest v3를 지원하는 다른 유람기,오프라인 버전이 발표된 후 일정 시간 내에 온라인 버전이 업데이트됩니다.
 --
