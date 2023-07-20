@@ -52,11 +52,11 @@ Manifest version 2 is deprecated, and support will be removed in 2023. See https
 
 根据谷歌官方公告，截至2023年，目前低版本manifest v2.0兼容大多数游览器，如果你使用Chrome以外的浏览器，请使用这两个版本
 --
-v1.2-mv2在线版本（mv2版本支持大多数浏览器）：此版本使用Manifest mv2作为插件访问github资源（https://github.com/afubaba/Afreecatv）用于网络速度更快的客户端，此版本适用于可以访问github网络环境的电脑，插件所需的资源托管在github上
+v1.2-mv2在线版本（mv2版本支持大多数浏览器）：此版本使用Manifest mv2作为插件访问github资源 https://github.com/afubaba/Afreecatv 用于网络速度更快的客户端，此版本适用于可以访问github网络环境的电脑，插件所需的资源托管在github上
 --
 v2.2-mv2脱机版（mv2版本支持大多数浏览器）：此版本使用Manifest mv2作为插件访问本地静态资源，不访问网络上的资源。独立。插件所需的资源已集成到插件文件夹中。
 --
-功能：内置弹幕提示，字体优化，设备显示，聊天机器人（测试中）<a href='https://afubaba.github.io/Afreecatv/RobotCommand.html' target='_blank'>命令手册</a>  管理员刷屏功能，支持打开连接到Instagram的所有相册，
+功能：内置弹幕提示，字体优化，设备显示，聊天机器人（测试中） <a href='https://afubaba.github.io/Afreecatv/RobotCommand.html' target='_blank'>命令手册</a>  管理员刷屏功能，支持打开连接到Instagram的所有相册，
 --
 注意：如果使用批量发送或聊天机器人，请确保权限帐户具有多次发送内容的权限。此扩展不绕过官方限制，只模拟手动输入。
 --
@@ -132,7 +132,7 @@ v1.2-mv2 온라인 버전(mv2 버전은 대부분의 브라우저를 지원): �
 --
 v2.2-mv2 오프라인(mv2 버전은 대부분의 브라우저를 지원): 이 버전은 Manifest mv2를 플러그인으로 사용하여 로컬 정적 리소스에 액세스하며 네트워크의 리소스는 액세스하지 않습니다.독립하다.플러그인에 필요한 자원이 플러그인 폴더에 통합되었습니다.
 --
-기능：내장 탄모 힌트, 글씨체 최적화, 설비 디스플레이, 채팅 로봇（테스트 중）<a href="https://afubaba.github.io/Afreecatv/RobotCommand.html" target="_blank">명령 매뉴얼</a>, 관리자 도배 기능，인스타그램에 연결된 모든 앨범 열기 지원,
+기능：내장 탄모 힌트, 글씨체 최적화, 설비 디스플레이, 채팅 로봇（테스트 중） <a href="https://afubaba.github.io/Afreecatv/RobotCommand.html" target="_blank">명령 매뉴얼</a> 관리자 도배 기능，인스타그램에 연결된 모든 앨범 열기 지원,
 --
 주의사항：대량 발송이나 채팅 로봇을 사용하면 권한 계정이 여러 번 내용을 발송할 수 있는 권한을 가지고 있는지 확인하십시오. 본 확장은 공식적인 제한을 빙빙 돌려서 하는 것이 아니라 수동 입력만 시뮬레이션합니다.
 --
@@ -140,6 +140,7 @@ v2.2-mv2 오프라인(mv2 버전은 대부분의 브라우저를 지원): 이 �
 --
 복구: 차단 bj.afreecatv.com 부분 불러올 수 없는 js, 사용 가능한 주소로 이동
 --
-이 플러그인은 특수효과 외부의 특수효과를 자동으로 영구적으로 보존하고 다음에 유람기를 시작하면 다시 컨트롤러에 입력할 필요가 없습니다. 플러그인 설치 후 운영 사이트에 직접 액세스https://afreecatv.com, 추가 작업 없이 효과를 자동으로 액세스
+이 플러그인은 특수효과 외부의 특수효과를 자동으로 영구적으로 보존하고 다음에 유람기를 시작하면 다시 컨트롤러에 입력할 필요가 없습니다. 플러그인 설치 후 운영 사이트에 직접 액세스 
+ https://afreecatv.com 추가 작업 없이 효과를 자동으로 액세스
 --
 
