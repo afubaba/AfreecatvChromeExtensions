@@ -4,7 +4,9 @@
 --
 #下面的同版本的脱机版和在线版的插件功能和界面几乎没有差异，只有静态资源存储位置不同，适用于以Chrome为核心的游览器
 --
-mv3支持的浏览器：Microsoft Edge、Naver-whale、Google-Chrome、Opera等以Chrome为核心浏览器或支持 manifest v3的其他游览器，脱机版本发布后将在一段时间内更新在线版本。
+mv3支持的浏览器：Microsoft Edge、Naver-whale、Google-Chrome、Opera等以Chrome为核心浏览器或支持 manifest v3的其他浏览器
+--
+脱机版本发布后将在一段时间内更新在线版本。
 --
 V3.1.5-mv3-websql&indexdb在线版本：v3.1.4-mv3-websql&indexdb的升级版本，此版本将Manifest MV3用作可访问github网络环境的计算机的插件，插件所需资源由github托管。
 --
@@ -54,7 +56,7 @@ v1.2-mv2在线版本（mv2版本支持大多数浏览器）：此版本使用Man
 --
 v2.2-mv2脱机版（mv2版本支持大多数浏览器）：此版本使用Manifest mv2作为插件访问本地静态资源，不访问网络上的资源。独立。插件所需的资源已集成到插件文件夹中。
 --
-功能：内置弹幕提示，字体优化，设备显示，聊天机器人（测试中）<a href=“https://afubaba.github.io/Afreecatv/RobotCommand.html“target=”_blank“>命令手册</a>，管理员刷屏功能，支持打开连接到Instagram的所有相册，
+功能：内置弹幕提示，字体优化，设备显示，聊天机器人（测试中）<a href="https://afubaba.github.io/Afreecatv/RobotCommand.html" target="_blank">命令手册</a>，管理员刷屏功能，支持打开连接到Instagram的所有相册，
 --
 注意：如果使用批量发送或聊天机器人，请确保权限帐户具有多次发送内容的权限。此扩展不绕过官方限制，只模拟手动输入。
 --
@@ -77,7 +79,7 @@ v2.2-mv2脱机版（mv2版本支持大多数浏览器）：此版本使用Manife
 --
 # 아래 같은 버전의 오프라인 버전과 온라인 버전의 플러그인 기능과 인터페이스는 거의 차이가 없다. 정적 자원 저장 위치만 다르다. 크롬을 핵심으로 하는 유람기에 적합하다
 --
-mv3지원 시스템：Microsoft-Edge, Naver-whale, Google-Chrome,Opera 등 크롬 핵심 유람기 또는 manifest v3를 지원하는 다른 유람기,오프라인 버전이 발표된 후 일정 시간 내에 온라인 버전이 업데이트됩니다.
+mv3 지원 브라우저: Microsoft Edge, Naver-whale, Google-Chrome, Opera 등 크롬을 중심으로 하거나 manifest v3를 지원하는 기타 브라우저
 --
 V3.1.5-mv3-websql&indexdb온라인 버전:v3.1.4-mv3-websql&indexdb의 업그레이드 버전，이 버전은 Manifest MV3를 github 네트워크 환경에 액세스할 수 있는 컴퓨터에 플러그인으로 사용하며, 플러그인에 필요한 리소스는 github에서 호스팅됩니다.
 --
