@@ -56,7 +56,7 @@ v1.2-mv2在线版本（mv2版本支持大多数浏览器）：此版本使用Man
 --
 v2.2-mv2脱机版（mv2版本支持大多数浏览器）：此版本使用Manifest mv2作为插件访问本地静态资源，不访问网络上的资源。独立。插件所需的资源已集成到插件文件夹中。
 --
-功能：内置弹幕提示，字体优化，设备显示，聊天机器人（测试中）<a href="https://afubaba.github.io/Afreecatv/RobotCommand.html" target="_blank">命令手册</a>，管理员刷屏功能，支持打开连接到Instagram的所有相册，
+功能：内置弹幕提示，字体优化，设备显示，聊天机器人（测试中）<a href='https://afubaba.github.io/Afreecatv/RobotCommand.html' target='_blank'>命令手册</a> ，管理员刷屏功能，支持打开连接到Instagram的所有相册，
 --
 注意：如果使用批量发送或聊天机器人，请确保权限帐户具有多次发送内容的权限。此扩展不绕过官方限制，只模拟手动输入。
 --
