@@ -8,7 +8,13 @@ mv3支持的浏览器：Microsoft Edge、Naver-whale、Google-Chrome、Opera等�
 --
 脱机版本发布后将在一段时间内更新在线版本。
 --
-V3.1.5-mv3-websql&indexdb在线版本：v3.1.4-mv3-websql&indexdb的升级版本，此版本将Manifest MV3用作可访问github网络环境的计算机的插件，插件所需资源由github托管。
+V3.1.6-mv3-indexdb&Mysql在线版本：V3.2.5-MV3-Websql&IndexDB&Mysql的升级版本，此版本将Manifest MV3用作可访问github网络环境的计算机的插件，插件所需资源由github托管。
+--
+V3.2.6-MV3-IndexDB&Mysql脱机版：V3.2.5-MV3-Websql&IndexDB&Mysql的升级版，此版本使用Manifest MV3作为插件访问本地静态资源，不访问网络上的资源。插件所需的资源已集成到插件文件夹中。
+--
+1.移除了Websql数据库的支持。
+
+V3.1.5-mv3-websql&indexdb&Mysql在线版本：v3.1.4-mv3-websql&indexdb的升级版本，此版本将Manifest MV3用作可访问github网络环境的计算机的插件，插件所需资源由github托管。
 --
 V3.2.5-MV3-Websql&IndexDB&Mysql脱机版：v3.2.4-mv3-websql&indexdb的升级版，此版本使用Manifest MV3作为插件访问本地静态资源，不访问网络上的资源。插件所需的资源已集成到插件文件夹中。
 --
@@ -81,6 +87,12 @@ v2.2-mv2脱机版（mv2版本支持大多数浏览器）：此版本使用Manife
 --
 mv3 지원 브라우저: Microsoft Edge, Naver-whale, Google-Chrome, Opera 등 크롬을 중심으로 하거나 manifest v3를 지원하는 기타 브라우저
 --
+V3.1.6-mv3-indexdb & Mysql 온라인 버전: V3.2.5-MV3-Websql & IndexDB & Mysql의 업그레이드 버전. 이 버전은 Manifest MV3를 github 네트워크 환경에 액세스할 수 있는 컴퓨터의 플러그인으로 사용하며, 플러그인에 필요한 자원은 github가 호스팅합니다.
+--
+V3.2.6-MV3-IndexDB & Mysql 오프라인 버전: V3.2.5-MV3-Websql & IndexDB & Mysql의 업그레이드 버전입니다. 이 버전은 Manifest MV3를 플러그인으로 사용하여 로컬 정적 자원에 액세스하고 네트워크의 자원에 액세스하지 않습니다.플러그인에 필요한 자원이 플러그인 폴더에 통합되었습니다.
+--
+1. Websql 데이터베이스에 대한 지원이 제거되었습니다.
+   
 V3.1.5-mv3-websql&indexdb온라인 버전:v3.1.4-mv3-websql&indexdb의 업그레이드 버전，이 버전은 Manifest MV3를 github 네트워크 환경에 액세스할 수 있는 컴퓨터에 플러그인으로 사용하며, 플러그인에 필요한 리소스는 github에서 호스팅됩니다.
 --
 V3.2.5-MV3-Websql&IndexDB&Mysql오프라인판:v3.2.4-mv3-websql&indexdb의 업그레이드 버전，이 버전은 Manifest MV3를 플러그인으로 사용하여 로컬 정적 리소스에 액세스하며 네트워크의 리소스에는 액세스하지 않습니다.독립하다.플러그인에 필요한 자원이 플러그인 폴더에 통합되었습니다.
